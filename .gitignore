@@ -1,0 +1,5 @@
+# 忽略obj中间文件
+/Objects
+# 连接项目文件
+/Listings
+
